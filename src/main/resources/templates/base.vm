@@ -353,7 +353,7 @@
 						<div class="row mbn">
 							<div class="col l6 s12 sTextCenter">
 								#set($_liclink = $utils.formatMessage("$!lang.get('license')",
-								'<a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons</a>') )
+								'<a href="http://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a>') )
 								<i class="fa fa-creative-commons"></i> $_liclink
 							</div>
 							<div class="col l6 s12 sTextCenter ${footerAlignClass}">

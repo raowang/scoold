@@ -371,6 +371,13 @@ pre, code.hljs, code[class*="language-"], pre[class*="language-"] {
 		float: none;
 	}
 }
+
+@media (min-width: 900px) {
+	.container {
+		width: 90%;
+	}
+}
+
 @media (max-width: 900px) {
 	.sTextCenter {
 		text-align: center;
